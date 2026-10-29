@@ -6,7 +6,7 @@ Personal Writing Backup
 - Classical Poetry
 - Essays
 
-曾经的知乎专栏“古白话说时事”：
+My former Zhihu column "古白话说时事":
 
 [01.刘强东舍身为国，章泽天忍恨从夫](essays/知乎01.刘强东舍身为国，章泽天忍恨从夫.md)  
 [02.陷囹圄强东说义，感真情马云辞职](essays/知乎02.陷囹圄强东说义，感真情马云辞职.md)  
